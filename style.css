@@ -1,0 +1,55 @@
+
+.logo {
+    height: 45px;
+    border-radius: 50%;
+}
+
+.slide_1 {
+    width: 75%;
+    display: block;
+    padding-top: auto;
+    margin-left: auto;
+    margin-right: auto }
+
+.slide_2 {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+.slide_3 {
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+.slider {
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+.text_slider_1 {
+    color: black;
+    text-align: left;
+    text-shadow: white 1px 1px 1px;
+}
+.text_slider_2 {
+    color: black;
+    text-align: left;
+    text-shadow: white 1px 1px 1px;
+}
+.text_slider_3 {
+    color: black;
+    text-align: left;
+    text-shadow: white 1px 1px 1px;
+}
+.photo_img_1 {
+    width: 80px;
+    height: 80px;
+}
+.photo_img_2 {
+    width: 80px;
+    height: 80px;
+}
+.photo_img_3 {
+    width: 80px;
+    height: 80px;
+}
